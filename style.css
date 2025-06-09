@@ -1,0 +1,11 @@
+body{
+    background: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+h1{
+    color: aquamarine;
+    font-size: large;
+}
